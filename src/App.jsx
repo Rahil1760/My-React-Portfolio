@@ -247,7 +247,7 @@ function App() {
                 <div className="w-full h-6 bg-white rounded-xl">
                   <div className="w-4/6 h-6 bg-green-500 rounded-xl">
                     <p className="text-white flex justify-center items-center">
-                      66%
+                      75%
                     </p>
                   </div>
                 </div>
@@ -267,7 +267,7 @@ function App() {
                 <div className="w-full h-6 bg-white rounded-xl">
                   <div className="w-1/3 h-6 bg-green-500 rounded-xl">
                     <p className="text-white flex justify-center items-center">
-                      33%
+                      80%
                     </p>
                   </div>
                 </div>
@@ -287,7 +287,7 @@ function App() {
                 <div className="w-full h-6 bg-white rounded-xl">
                   <div className="w-1/6 h-6 bg-green-500 rounded-xl">
                     <p className="text-white flex justify-center items-center">
-                      20%
+                      70%
                     </p>
                   </div>
                 </div>
